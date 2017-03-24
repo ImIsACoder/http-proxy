@@ -1,0 +1,12 @@
+{
+  "name": "node-proxy",
+  "main": "main.js",
+  "dependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.0.1",
+    "ejs":"*"
+  },
+  "devDependencies": {
+    "request": "^2.74.0"
+  }
+}
